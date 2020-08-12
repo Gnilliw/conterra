@@ -1,0 +1,23 @@
+{
+  "name": "conterra",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "WetterApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gnilliw/conterra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gnilliw/conterra/issues"
+  },
+  "homepage": "https://github.com/Gnilliw/conterra#readme",
+  "dependencies": {
+    "@types/arcgis-js-api": "^4.16.0"
+  }
+}

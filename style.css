@@ -1,0 +1,14 @@
+html, body, #viewDiv {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+  }
+
+.coordWidget-tool {
+padding: 2em;
+width: 150px;
+height:70px;
+color:black;
+background: white;
+}
